@@ -1,0 +1,17 @@
+﻿Build started 13/04/2013 14:56:05.
+     1>Project "D:\~ DONNEES ~\Thomas SCHOBBER\Mes documents\Visual Studio 2010\Projects\OpenGLTutorials-build-Visual2010-32bits\external\GLEW_190.vcxproj" on node 3 (build target(s)).
+     1>C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets(1200,9): warning : The referenced project 'C:/Users/Thomas SCHOBBER/Projects/OpenGLTutorials-build-Visual2010-32bits/ZERO_CHECK.vcxproj' does not exist.
+     1>PrepareForBuild:
+         Creating directory "C:\Users\Thomas SCHOBBER\Projects\OpenGLTutorials-build-Visual2010-32bits\external\Debug\".
+       InitializeBuildStatus:
+         Creating "GLEW_190.dir\Debug\GLEW_190.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule C:/Users/Thomas SCHOBBER/Projects/OpenGLTutorials/external/CMakeLists.txt
+         CMake is re-running because C:\Users\Thomas SCHOBBER\Projects\OpenGLTutorials-build-Visual2010-32bits\external\CMakeFiles\generate.stamp dependency file is missing.
+     1>CUSTOMBUILD : CMake error : The source directory "C:/Users/Thomas SCHOBBER/Projects/OpenGLTutorials" does not exist.
+         Specify --help for usage, or press the help button on the CMake GUI.
+     1>Done Building Project "D:\~ DONNEES ~\Thomas SCHOBBER\Mes documents\Visual Studio 2010\Projects\OpenGLTutorials-build-Visual2010-32bits\external\GLEW_190.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.13

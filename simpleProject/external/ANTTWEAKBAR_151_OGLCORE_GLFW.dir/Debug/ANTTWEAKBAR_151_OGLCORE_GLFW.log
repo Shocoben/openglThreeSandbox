@@ -1,0 +1,43 @@
+﻿La génération a démarré 13/04/2013 00:46:09.
+     1>Projet "C:\Users\Thomas SCHOBBER\Projects\OpenGLTutorials-build-Visual2010-32bits\external\ANTTWEAKBAR_151_OGLCORE_GLFW.vcxproj" sur le nœud 2 (build cible(s)).
+     1>PrepareForBuild:
+         Création du répertoire "C:\Users\Thomas SCHOBBER\Projects\OpenGLTutorials-build-Visual2010-32bits\external\Debug\".
+       InitializeBuildStatus:
+         Création de "ANTTWEAKBAR_151_OGLCORE_GLFW.dir\Debug\ANTTWEAKBAR_151_OGLCORE_GLFW.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
+       CustomBuild:
+         Building Custom Rule C:/Users/Thomas SCHOBBER/Projects/OpenGLTutorials/external/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\Thomas SCHOBBER\Projects\OpenGLTutorials-build-Visual2010-32bits\external\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:/Users/Thomas SCHOBBER/Projects/OpenGLTutorials/external/glfw-2.7.6/lib/win32" /I"C:/Users/Thomas SCHOBBER/Projects/OpenGLTutorials/external/glfw-2.7.6/lib" /I"C:/Users/Thomas SCHOBBER/Projects/OpenGLTutorials/external/glfw-2.7.6/include" /I"C:/Users/Thomas SCHOBBER/Projects/OpenGLTutorials/external/glew-1.9.0/include" /I"C:/Users/Thomas SCHOBBER/Projects/OpenGLTutorials/external/AntTweakBar-1.15/include" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D TW_STATIC /D TW_NO_LIB_PRAGMA /D TW_NO_DIRECT3D /D GLEW_STATIC /D _CRT_SECURE_NO_WARNINGS /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"ANTTWEAKBAR_151_OGLCORE_GLFW.dir\Debug\\" /Fd"C:/Users/Thomas SCHOBBER/Projects/OpenGLTutorials-build-Visual2010-32bits/external/Debug/ANTTWEAKBAR_151_OGLCORE_GLFW.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\OpenGLTutorials\external\AntTweakBar-1.15\src\LoadOGL.cpp" "..\..\OpenGLTutorials\external\AntTweakBar-1.15\src\LoadOGLCore.cpp" "..\..\OpenGLTutorials\external\AntTweakBar-1.15\src\TwColors.cpp" "..\..\OpenGLTutorials\external\AntTweakBar-1.15\src\TwBar.cpp" "..\..\OpenGLTutorials\external\AntTweakBar-1.15\src\TwFonts.cpp" "..\..\OpenGLTutorials\external\AntTweakBar-1.15\src\TwMgr.cpp" "..\..\OpenGLTutorials\external\AntTweakBar-1.15\src\TwOpenGL.cpp" "..\..\OpenGLTutorials\external\AntTweakBar-1.15\src\TwOpenGLCore.cpp" "..\..\OpenGLTutorials\external\AntTweakBar-1.15\src\TwPrecomp.cpp"  /Zm1000 
+         LoadOGL.cpp
+         LoadOGLCore.cpp
+         TwColors.cpp
+         TwBar.cpp
+         TwFonts.cpp
+         TwMgr.cpp
+         TwOpenGL.cpp
+         TwOpenGLCore.cpp
+         TwPrecomp.cpp
+         Génération de code en cours...
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:/Users/Thomas SCHOBBER/Projects/OpenGLTutorials/external/glfw-2.7.6/lib/win32" /I"C:/Users/Thomas SCHOBBER/Projects/OpenGLTutorials/external/glfw-2.7.6/lib" /I"C:/Users/Thomas SCHOBBER/Projects/OpenGLTutorials/external/glfw-2.7.6/include" /I"C:/Users/Thomas SCHOBBER/Projects/OpenGLTutorials/external/glew-1.9.0/include" /I"C:/Users/Thomas SCHOBBER/Projects/OpenGLTutorials/external/AntTweakBar-1.15/include" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D TW_STATIC /D TW_NO_LIB_PRAGMA /D TW_NO_DIRECT3D /D GLEW_STATIC /D _CRT_SECURE_NO_WARNINGS /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"ANTTWEAKBAR_151_OGLCORE_GLFW.dir\Debug\\" /Fd"C:/Users/Thomas SCHOBBER/Projects/OpenGLTutorials-build-Visual2010-32bits/external/Debug/ANTTWEAKBAR_151_OGLCORE_GLFW.pdb" /Gd /TC /analyze- /errorReport:prompt "..\..\OpenGLTutorials\external\AntTweakBar-1.15\src\TwEventGLFW.c"  /Zm1000 
+         TwEventGLFW.c
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Thomas SCHOBBER\Projects\OpenGLTutorials-build-Visual2010-32bits\external\Debug\ANTTWEAKBAR_151_OGLCORE_GLFW.lib" /NOLOGO ANTTWEAKBAR_151_OGLCORE_GLFW.dir\Debug\LoadOGL.obj
+         ANTTWEAKBAR_151_OGLCORE_GLFW.dir\Debug\LoadOGLCore.obj
+         ANTTWEAKBAR_151_OGLCORE_GLFW.dir\Debug\TwColors.obj
+         ANTTWEAKBAR_151_OGLCORE_GLFW.dir\Debug\TwBar.obj
+         ANTTWEAKBAR_151_OGLCORE_GLFW.dir\Debug\TwEventGLFW.obj
+         ANTTWEAKBAR_151_OGLCORE_GLFW.dir\Debug\TwFonts.obj
+         ANTTWEAKBAR_151_OGLCORE_GLFW.dir\Debug\TwMgr.obj
+         ANTTWEAKBAR_151_OGLCORE_GLFW.dir\Debug\TwOpenGL.obj
+         ANTTWEAKBAR_151_OGLCORE_GLFW.dir\Debug\TwOpenGLCore.obj
+         ANTTWEAKBAR_151_OGLCORE_GLFW.dir\Debug\TwPrecomp.obj
+         ANTTWEAKBAR_151_OGLCORE_GLFW.vcxproj -> C:\Users\Thomas SCHOBBER\Projects\OpenGLTutorials-build-Visual2010-32bits\external\Debug\ANTTWEAKBAR_151_OGLCORE_GLFW.lib
+       FinalizeBuildStatus:
+         Suppression du fichier "ANTTWEAKBAR_151_OGLCORE_GLFW.dir\Debug\ANTTWEAKBAR_151_OGLCORE_GLFW.unsuccessfulbuild".
+         Mise à jour de l'horodatage "ANTTWEAKBAR_151_OGLCORE_GLFW.dir\Debug\ANTTWEAKBAR_151_OGLCORE_GLFW.lastbuildstate".
+     1>Génération du projet "C:\Users\Thomas SCHOBBER\Projects\OpenGLTutorials-build-Visual2010-32bits\external\ANTTWEAKBAR_151_OGLCORE_GLFW.vcxproj" terminée (build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:12.57
